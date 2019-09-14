@@ -1,3 +1,9 @@
-.test{
-    background-color: red;
+.header {
+    font-weight: bold;
+}
+
+.sub {
+    color: gray;
+    font-weight: 400;
+    font-size: 0.3rem;
 }
